@@ -112,7 +112,7 @@ MarkupSafe==2.0.1
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
 mistune==0.8.4
-mpmath==1.2.1
+mpmath==1.3.0
 multidict==5.2.0
 multiprocess==0.70.12.2
 nam==0.0.3
