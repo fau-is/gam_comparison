@@ -165,7 +165,7 @@ pyrsistent==0.18.0
 python-dateutil==2.8.1
 python-editor==1.0.4
 python-utils==2.5.6
-pytorch-lightning==1.4.9
+pytorch-lightning==1.6.0
 pytz==2021.1
 pyvis==0.1.9
 PyWavelets==1.1.1
