@@ -208,7 +208,7 @@ tenacity==8.0.1
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.5.0
+tensorflow==2.11.1
 tensorflow-estimator==2.5.0
 tensorflow-lattice==2.0.9
 termcolor==1.1.0
