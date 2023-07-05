@@ -105,7 +105,7 @@ kombu==5.1.0
 lime==0.2.0.1
 llvmlite==0.37.0
 loguru==0.5.3
-lxml==4.6.3
+lxml==4.9.1
 Mako==1.1.4
 Markdown==3.3.4
 MarkupSafe==2.0.1
