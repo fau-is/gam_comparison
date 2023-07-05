@@ -123,7 +123,7 @@ nest-asyncio==1.5.1
 networkx==2.6.3
 notebook==6.4.12
 numba==0.54.0
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.2.2
 opencv-python==4.5.3.56
 openpyxl==3.0.9
