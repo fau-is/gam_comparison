@@ -1,5 +1,5 @@
 absl-py==0.13.0
-aiohttp==3.7.4.post0
+aiohttp==3.8.6
 alembic==1.6.5
 amqp==5.0.6
 argon2-cffi==20.1.0
