@@ -232,7 +232,7 @@ vine==5.0.0
 wandb==0.12.6
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.2.3
+Werkzeug==2.3.8
 Whoosh==2.7.4
 widgetsnbextension==3.5.1
 win32-setctime==1.0.3
