@@ -157,7 +157,7 @@ pycparser==2.20
 pyDeprecate==0.3.1
 pydotplus==2.0.2
 pygam==0.8.0
-Pygments==2.9.0
+Pygments==2.15.0
 pyparsing==2.4.7
 pyperclip==1.8.2
 pyreadline3==3.3
